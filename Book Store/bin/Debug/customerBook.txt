@@ -1,0 +1,6 @@
+ALI,1
+MATH,90
+URDU,1
+Expectations,1
+OOP,1
+OOP,1

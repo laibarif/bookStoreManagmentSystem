@@ -1,0 +1,7 @@
+E:\Programming\2nd semester\OOP\Business Application\version3\bin\Debug\version3.exe.config
+E:\Programming\2nd semester\OOP\Business Application\version3\bin\Debug\version3.exe
+E:\Programming\2nd semester\OOP\Business Application\version3\bin\Debug\version3.pdb
+E:\Programming\2nd semester\OOP\Business Application\version3\obj\Debug\version3.csproj.AssemblyReference.cache
+E:\Programming\2nd semester\OOP\Business Application\version3\obj\Debug\version3.csproj.CoreCompileInputs.cache
+E:\Programming\2nd semester\OOP\Business Application\version3\obj\Debug\version3.exe
+E:\Programming\2nd semester\OOP\Business Application\version3\obj\Debug\version3.pdb

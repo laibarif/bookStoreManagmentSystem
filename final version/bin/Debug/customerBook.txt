@@ -1,0 +1,3 @@
+ALI,1
+MATH,90
+URDU,1
