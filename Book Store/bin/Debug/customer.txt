@@ -1,0 +1,8 @@
+ALI,100,1
+LAIBA,1,100
+AIZA,200,2
+HAMZA,2,200
+Laiba,2,1000
+Ayesha,1,100
+Laiba,1,1000
+Zoha,1,500
